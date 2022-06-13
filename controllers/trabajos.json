@@ -1,0 +1,11 @@
+[
+    {
+        "id_trabajo": "55043332-6390-4015-8915-d5a809a0499a",
+        "id_equipo": "95ac36cb-de81-4bd6-b5f7-b6ccca494b8d",
+        "fecha_planificada_mantenimiento": "24-03-22",
+        "fecha_inicio_mantenimiento": "28-03-22",
+        "fecha_final_mantenimiento": "05-04-22",
+        "status_mantenimiento": "en proceso",
+        "tipo_mantenimiento": "preventivo"
+    }
+]

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1> Detalles del equipo</h1>
+     
+   <% for (const key in detalle) { %>
+       
+     <p> <strong> <%= key %> </strong> : </p> <p style="font-size:16px;"><%= detalle[key] %> </p>  <br>
+           
+       
+  <% } %>
+               
+  </body>
+</html>
